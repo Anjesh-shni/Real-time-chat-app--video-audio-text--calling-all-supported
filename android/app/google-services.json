@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "170391904963",
+    "project_id": "video-chats-app",
+    "storage_bucket": "video-chats-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170391904963:android:2c33562cc6db76fd6a3876",
+        "android_client_info": {
+          "package_name": "com.example.video_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170391904963-movkvoubspmnh5tu3g9q1qvq3a1poh0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.video_chat",
+            "certificate_hash": "12746d6697ff6274ab8df17e4a68a76585d16e46"
+          }
+        },
+        {
+          "client_id": "170391904963-jio6eqvm06smiag0um5g11q3gl4nfkta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT0pj4g_28-QIzCc_DezWo25CkzeL-aQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170391904963-jio6eqvm06smiag0um5g11q3gl4nfkta.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170391904963-bh6vfl75bfdqb2p3paj5ifskfq917l9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.videoChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
